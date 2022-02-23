@@ -5,8 +5,8 @@ public class Animal {
         System.out.println("Gav gav");
     }
     public int sumOfTwoNumber(){
-        int a= 4;
-        int b =8;
+        int a= 200000;
+        int b =11111;
      return a + b;
     }
 }
