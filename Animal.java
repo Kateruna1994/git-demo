@@ -1,5 +1,5 @@
 public class Animal {
-    int name = "Dog";
+    String name = "Dog";
     public void bark(){
         System.out.println("Gav gav");
     }
